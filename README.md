@@ -6,6 +6,7 @@ Converts the Timetabling Solutions output into a format suitable for SOBS
 [https://sobs.com.au/](https://sobs.com.au/)
 
 Input: eMinervaTTable.txt
+
 Output: eMinervaTTable_SOBS.csv
 
 Timetabling Solutions give us this:
